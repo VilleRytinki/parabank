@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem 'rspec', '~> 3.0'
+gem 'selenium-devtools', '~> 0.119'
+gem 'faraday', '~> 2.9'
